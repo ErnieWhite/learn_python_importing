@@ -1,0 +1,2 @@
+This is sample package data.
+You can read this using importlib.resources or pkgutil.get_data.
